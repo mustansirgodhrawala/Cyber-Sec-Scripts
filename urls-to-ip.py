@@ -2,7 +2,7 @@
 # -----------------------------------------------------------------------------
 # resolver.py
 #
-# Author: Your Name <your.email@example.com>
+# Author: Mustansir Godhrawala <me@mustansirg.in>
 # License: GNU General Public License v3.0 (GPLv3)
 #
 # Description:
